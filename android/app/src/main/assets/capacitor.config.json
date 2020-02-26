@@ -1,5 +1,5 @@
 {
-  "appId": "pl.akmf.jakub.mroz.recipes",
+  "appId": "io.ionic.starter",
   "appName": "ionic-project",
   "bundledWebRuntime": false,
   "npmClient": "npm",
